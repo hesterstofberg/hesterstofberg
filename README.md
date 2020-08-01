@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Hester!
 
 ### I'm a entry level Data Scientist
-- :female_scientist: I'm a chemical engineering graduate, who decided to change careers
+- :scientist: I'm a chemical engineering graduate, who decided to change careers
 - :desktop_computer: After graduation, I enrolled in a data science academy where I learnt a lot about data analytics, machine learning, and even gained some dashboarding experience
 - :mag: I'm a fast learner and I'm keen to dive into the diverse world of data science!
 - :seedling: I love anything related to sustainability and 'green' living.
